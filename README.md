@@ -14,4 +14,6 @@ Sendo assim, decidi usar uma margem de segurança e trabalhei com o valor de cor
 Segundo a Lei de Ohm - V = R * I, ficaria:
 R = 5v / (20 * 10 ^-3) = 0,25 k Ohm = 250 Ohm
 
+![Imagem representando a simulação do Arduino](Atividade_tinkercad.png)
+
 
